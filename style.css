@@ -49,3 +49,29 @@ h1{
     margin-top: 5%;
     margin-left: 2%;
 }
+.recipies{
+    margin-bottom: 4%;
+}
+.orange-color{
+    color:orange;
+}
+.slategray-color{
+    color: slategray;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.supported{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 80%;
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px 10px slategray;
+}
