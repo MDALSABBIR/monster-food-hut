@@ -63,16 +63,21 @@ h1{
 .slategray-color{
     color: slategray;
 }
+.margin-bottom{
+    padding: 0px;
+    background-color: greenyellow;
+    box-shadow: 10px 10px 10px 10px green;
+}
 .supported{
     display: flex;
     padding-left: 6%;
     padding-right: 4%;
-    margin-left: 5%;
+    margin-left: 7%;
     margin-right: 10%;
     margin-top: 5%;
     margin-bottom: 5%;
-    width: 80%;
-    border-radius: 3%;
+    width: 77%;
+    border-radius: 20px;
     box-shadow: 10px 10px 10px 10px slategray;
 }
 .footer{
