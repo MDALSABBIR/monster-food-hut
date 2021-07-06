@@ -2,3 +2,50 @@ body{
     font-family: 'Otomanopee One', sans-serif;
     margin: 0%;
 }
+h1{
+    font-size: 35px;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+}
+.helf-width{
+    width: 50%;
+    padding: 5%;
+}
+.helf-width img{
+    width: 105%;
+    border-radius: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(purple,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 5%;
+}
+.about-me{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: 79em;
+}
+.recipies{
+    text-align: center;
+}
+.item-list{
+    width: 23%;
+    margin-left: 7%;
+    margin-right: 0%;
+    padding-left: 10px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 20px green;
+}
+.image-size{
+    width: 90%;
+    border-radius: 10%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
