@@ -2,6 +2,11 @@ body{
     font-family: 'Otomanopee One', sans-serif;
     margin: 0%;
 }
+.color{
+text-align: center;
+color:rgb(255, 0, 191);
+background-color: turquoise;
+}
 h1{
     font-size: 35px;
 }
@@ -58,11 +63,6 @@ h1{
 .slategray-color{
     color: slategray;
 }
-.footer{
-    text-align: center;
-    color: white;
-    background-color: black;
-}
 .supported{
     display: flex;
     padding-left: 5%;
@@ -74,4 +74,9 @@ h1{
     width: 80%;
     border-radius: 3%;
     box-shadow: 10px 10px 10px 10px slategray;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
 }
